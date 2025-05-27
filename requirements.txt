@@ -1,0 +1,11 @@
+requests
+PyMuPDF
+openai
+python-dotenv
+fastapi
+uvicorn
+boto3
+botocore
+pinecone-client
+numpy
+pydantic
